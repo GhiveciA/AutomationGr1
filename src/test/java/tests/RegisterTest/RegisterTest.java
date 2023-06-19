@@ -60,7 +60,7 @@ public class RegisterTest extends BaseTest {
         sleep(3000);
         //Test GIT
 
-        //Test Git2
+        //Test Git3
 
 
 
