@@ -58,7 +58,7 @@ public class RegisterTest extends BaseTest {
         LOG.info("Click checkbox button");
         registerPage.clickHockey();
         sleep(3000);
-
+        //Test GIT
 
 
 
